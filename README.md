@@ -1,2 +1,3 @@
 # IDA-PRO-EXPERT-Arc
 x86 - 32 x86 - 64 ARM - 32 ARM - 64 MIPS 32+nM MIPS - 64 PPC - 32 PPC - 64 ARC RISC-V - 32 RISC-V - 64 V850 - 32
+https://hex-rays.com/pricing?section=organizations
