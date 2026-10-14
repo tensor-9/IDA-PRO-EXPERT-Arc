@@ -1,0 +1,40 @@
+{
+  "payload": {
+    "name": "www.amansheikh332001@gmail.com",
+    "email": "www.amansheikh332001@gmail.com",
+    "licenses": [
+      {
+        "id": "96-98A5-0014-68",
+        "owner": "www.amansheikh332001@gmail.com",
+        "product_id": "IDAFREE",
+        "edition_id": "ida-free",
+        "description": "IDA Free PC",
+        "start_date": "2026-10-14",
+        "end_date": "2027-10-14",
+        "issued_on": "2026-10-14 11:27:50",
+        "license_type": "named",
+        "seats": 1,
+        "add_ons": [
+          {
+            "id": "97-8BD6-325F-1F",
+            "code": "HEXCX64",
+            "owner": "96-98A5-0014-68",
+            "start_date": "2026-10-14",
+            "end_date": "2027-10-14"
+          },
+          {
+            "id": "97-C062-9814-65",
+            "code": "HEXCX86",
+            "owner": "96-98A5-0014-68",
+            "start_date": "2026-10-14",
+            "end_date": "2027-10-14"
+          }
+        ]
+      }
+    ]
+  },
+  "header": {
+    "version": 1
+  },
+  "signature": "C33D01692222D75C0B9EDF4B3D4409A7CE8372DB9EDDE669B52FBAC801277DAF1531A1E06BF312C0F8650A94E0BC372C21265C0A9E96A4FCE9DD4AD0118660EB616F9540FBAA2A40B7FD993377D0569C089AC0FFD2404DE7D81F945E43391D045E3899EDE79B11374CA7786EC73C9EAE819B4BE00EED48D73AA873E5DEB9C970"
+}
